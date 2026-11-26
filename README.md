@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Nicolas
+## Hi, I'm Nicolas :atom:
+
 
 ```text
 $ whoami
@@ -10,3 +11,4 @@ System & Network Administrator — Cloud focus · Liège, Belgium 🇧🇪
 - 🎓 Goal: Create an after-school training center for geeks
 
 📄 **Resume:** [English](CV.en.md) · [Français](CV.fr.md)
+:copyright: 2026
