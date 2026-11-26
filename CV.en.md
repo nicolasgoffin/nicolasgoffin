@@ -82,6 +82,10 @@ I learn by doing, and I write down everything I learn. I also used to work as a 
 
 ### 🪟 Windows & cloud
 
+#### Windows client — since 1990
+
+`#MS-DOS` `#Windows-3.11` `#Windows-95` `#Windows-98` `#Windows-ME` `#Windows-NT4` `#Windows-2000` `#Windows-XP` `#Windows-Vista` `#Windows-7` `#Windows-8` `#Windows-10` `#Windows-11`
+
 #### Windows Server
 
 `#Active-Directory` `#DFS` `#WSUS` `#Exchange`
@@ -89,6 +93,12 @@ I learn by doing, and I write down everything I learn. I also used to work as a 
 #### Cloud
 
 `#Azure`
+
+### 🍎 macOS
+
+#### Client
+
+`#macOS`
 
 ### ⚙️ Automation & development
 

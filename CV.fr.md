@@ -82,6 +82,10 @@ J'apprends en pratiquant et je documente tout ce que j'apprends. J'ai aussi ét�
 
 ### 🪟 Windows & cloud
 
+#### Windows client — depuis 1990
+
+`#MS-DOS` `#Windows-3.11` `#Windows-95` `#Windows-98` `#Windows-ME` `#Windows-NT4` `#Windows-2000` `#Windows-XP` `#Windows-Vista` `#Windows-7` `#Windows-8` `#Windows-10` `#Windows-11`
+
 #### Windows Server
 
 `#Active-Directory` `#DFS` `#WSUS` `#Exchange`
@@ -89,6 +93,12 @@ J'apprends en pratiquant et je documente tout ce que j'apprends. J'ai aussi ét�
 #### Cloud
 
 `#Azure`
+
+### 🍎 macOS
+
+#### Poste client
+
+`#macOS`
 
 ### ⚙️ Automatisation & développement
 
