@@ -12,7 +12,7 @@
 nicolas — sysadmin qui construit, casse et documente sa propre infrastructure.
 ```
 
-Je suis administrateur système et réseau, avec une forte orientation Linux. J'ai commencé par le réseau et la virtualisation (Cisco, Juniper, VMware, Hyper-V, Windows Server). Aujourd'hui, je gère seul ma propre infrastructure Linux en production : pare-feu, DNS chiffré, messagerie, services de fichiers, supervision et packaging.
+Je suis administrateur système et réseau, avec une forte orientation Linux : j'utilise Linux depuis 1999. J'ai commencé par le réseau et la virtualisation (Cisco, Juniper, VMware, Hyper-V, Windows Server). Aujourd'hui, je gère seul ma propre infrastructure Linux en production : pare-feu, DNS chiffré, messagerie, services de fichiers, supervision et packaging.
 
 J'apprends en pratiquant et je documente tout ce que j'apprends. J'ai aussi été formateur, et c'est une activité que je veux reprendre : rendre Linux et le réseau accessibles à celles et ceux qui débutent.
 
@@ -20,7 +20,7 @@ J'apprends en pratiquant et je documente tout ce que j'apprends. J'ai aussi ét�
 
 ## `$ ls -R ~/competences`
 
-### 🐧 Linux
+### 🐧 Linux — depuis 1999
 
 #### Distributions
 
@@ -135,23 +135,23 @@ Branch: auto-hebergement / la25mheure.org
 - Je rédige un **wiki Linux en français** d'environ 180 notes. Chaque commande y est testée dans des conteneurs jetables. Sa publication est prévue prochainement.
 
 ```text
-commit benevolat
-Branch: communaute
-
-    Bénévole — « Li P'tite Buweye », centre d'accueil de jour pour personnes sans abri (Liège)
-```
-- Accueil et accompagnement de personnes sans abri.
-
-```text
-commit autoformation
+commit 2025..aujourd'hui
 Branch: apprentissage
 
     Formation continue en autodidacte
 ```
-- **Linux et DevOps** : Docker, Podman, Kubernetes
-- Programmation **Python**
-- **Ingénierie assistée par IA** avec Claude Code
+- **DevOps** : Docker, Podman, Kubernetes (depuis 2026)
+- Programmation **Python** (depuis 2025)
+- **Ingénierie assistée par IA** avec Claude Code (depuis 2025)
 - Préparation du **CCNA 200-301** avec Cisco NetAcad, Jeremy's IT Lab et des labs CML
+
+```text
+commit 2022..aujourd'hui
+Branch: communaute
+
+    Bénévole — « Li P'tite Buweye », centre d'accueil de jour pour personnes sans abri (Namur)
+```
+- Accueil et accompagnement de personnes sans abri.
 
 ```text
 commit 2014..2015

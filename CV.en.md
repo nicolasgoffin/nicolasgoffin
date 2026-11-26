@@ -12,7 +12,7 @@
 nicolas — sysadmin who builds, breaks and documents his own infrastructure.
 ```
 
-I'm a system and network administrator with a strong Linux focus. I started out in networking and virtualization (Cisco, Juniper, VMware, Hyper-V, Windows Server) and today I run my own production Linux infrastructure end to end: firewall, encrypted DNS, mail, file services, monitoring and packaging.
+I'm a system and network administrator with a strong Linux focus: I have been using Linux since 1999. I started out in networking and virtualization (Cisco, Juniper, VMware, Hyper-V, Windows Server) and today I run my own production Linux infrastructure end to end: firewall, encrypted DNS, mail, file services, monitoring and packaging.
 
 I learn by doing, and I write down everything I learn. I also used to work as a trainer, and teaching IT is something I want to get back into: making Linux and networking accessible to people who are just starting out.
 
@@ -20,7 +20,7 @@ I learn by doing, and I write down everything I learn. I also used to work as a 
 
 ## `$ ls -R ~/skills`
 
-### 🐧 Linux
+### 🐧 Linux — since 1999
 
 #### Distributions
 
@@ -135,23 +135,23 @@ Branch: self-hosting / la25mheure.org
 - Am writing a **French Linux wiki** of about 180 notes. Every command in it is tested in disposable containers. It will be published soon.
 
 ```text
-commit volunteer
-Branch: community
-
-    Volunteer — "Li P'tite Buweye", day centre for homeless people (Liège)
-```
-- Welcomed and supported people experiencing homelessness.
-
-```text
-commit upskill
+commit 2025..present
 Branch: learning
 
     Continuous self-training
 ```
-- **Linux & DevOps**: Docker, Podman, Kubernetes
-- **Python** programming
-- **AI-assisted engineering** with Claude Code
+- **DevOps**: Docker, Podman, Kubernetes (since 2026)
+- **Python** programming (since 2025)
+- **AI-assisted engineering** with Claude Code (since 2025)
 - **CCNA 200-301** preparation through Cisco NetAcad, Jeremy's IT Lab and CML labs
+
+```text
+commit 2022..present
+Branch: community
+
+    Volunteer — "Li P'tite Buweye", day centre for homeless people (Namur)
+```
+- Welcomed and supported people experiencing homelessness.
 
 ```text
 commit 2014..2015
