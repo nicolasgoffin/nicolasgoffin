@@ -2,7 +2,7 @@
 
 ```text
 $ whoami
-System & Network Administrator — Linux focus · Liège, Belgium 🇧🇪
+System & Network Administrator — Cloud focus · Liège, Belgium 🇧🇪
 ```
 
 - 🐧 Running my own self-hosted Linux infrastructure (Fedora, Debian, SELinux, FireHOL, Unbound, Prometheus/Grafana)
