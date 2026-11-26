@@ -94,11 +94,15 @@ J'apprends en pratiquant et je documente tout ce que j'apprends. J'ai aussi ét�
 
 `#Azure`
 
-### 🍎 macOS
+### 🍎 macOS — depuis 2005
 
-#### Poste client
+#### Versions
 
-`#macOS`
+`#Mac-OS-X` `#macOS`
+
+#### Support utilisateurs
+
+`#dépannage` `#support-utilisateurs`
 
 ### ⚙️ Automatisation & développement
 

@@ -94,11 +94,15 @@ I learn by doing, and I write down everything I learn. I also used to work as a 
 
 `#Azure`
 
-### 🍎 macOS
+### 🍎 macOS — since 2005
 
-#### Client
+#### Versions
 
-`#macOS`
+`#Mac-OS-X` `#macOS`
+
+#### User support
+
+`#troubleshooting` `#end-user-support`
 
 ### ⚙️ Automation & development
 
